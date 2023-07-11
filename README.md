@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Project-Morax<br>🌱 I’m currently learning full stack<br>💬 Ask me about anything
+🔭 I’m currently working on Project-Mashle<br>🌱 I’m currently learning full stack<br>💬 Ask me about anything
 
 
 # 💻 Tech Stack:

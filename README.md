@@ -12,4 +12,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AldrinCleetus&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://imgflip.com/i/92py5y)]
+![](https://github.com/AldrinCleetus/AldrinCleetus/blob/main/pic.png)

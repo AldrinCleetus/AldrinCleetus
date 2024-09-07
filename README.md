@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Project-Mashle<br>🌱 I’m currently learning full stack<br>💬 Ask me about anything
+🔭 I’m currently jumping between projects<br>💬 Ask me about anything
 
 
 # 💻 Tech Stack:
@@ -11,3 +11,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AldrinCleetus&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![pic here](https://imgflip.com/i/92py5y)
